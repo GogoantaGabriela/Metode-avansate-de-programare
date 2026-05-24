@@ -1,0 +1,90 @@
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.exe
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.deps.json
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.runtimeconfig.json
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.pdb
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer_MarkupCompile.cache
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer_MarkupCompile.lref
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.g.resources
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.AssemblyInfo.cs
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPla.163160C2.Up2Date
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\refint\MusicPlayer.dll
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.pdb
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.genruntimeconfig.cache
+C:\Users\Ghebi\Downloads\MusicPlayer_v2 (2)\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\ref\MusicPlayer.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.exe
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.deps.json
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.runtimeconfig.json
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.pdb
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer_MarkupCompile.cache
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer_MarkupCompile.lref
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.g.resources
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.AssemblyInfo.cs
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPla.163160C2.Up2Date
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\refint\MusicPlayer.dll
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.pdb
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.genruntimeconfig.cache
+C:\Users\Ghebi\Downloads\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\ref\MusicPlayer.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.exe
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.deps.json
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.runtimeconfig.json
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\MusicPlayer.pdb
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer_MarkupCompile.cache
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer_MarkupCompile.lref
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.g.resources
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.AssemblyInfo.cs
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPla.163160C2.Up2Date
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\refint\MusicPlayer.dll
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.pdb
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\MusicPlayer.genruntimeconfig.cache
+C:\Users\Ghebi\Documents\Facultate\Metode avansate de programare\Laborator 8\MusicPlayer\MusicPlayer\src\MusicPlayer\obj\Debug\net8.0-windows\ref\MusicPlayer.dll
