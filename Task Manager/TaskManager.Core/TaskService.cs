@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Task_Manager.TaskManager.Core
 {
-    public class TaskService : ITaskRepository
+    public class TaskService 
     {
         public enum NotificationType
         {
@@ -29,31 +29,5 @@ namespace Task_Manager.TaskManager.Core
             _notifier = notifier;
         }
 
-        public void Add(TaskItem task)
-        {
-            _validator.Validate(task);
-            _repository.Add(task);
-            _notifier[0].Notify(task);
-        }
-
-        public void Delete(TaskItem task)
-        {
-            _repository.Delete(task);
-        }
-
-        public void Update(TaskItem task)
-        {
-            _repository.Update(task);
-        }
-
-        public TaskItem GetById(int id)
-        {
-            return _repository.GetById(id);
-        }
-
-        public IEnumerable<TaskItem> GetAll()
-        {
-            return _repository.GetAll();
-        }
     }
 }

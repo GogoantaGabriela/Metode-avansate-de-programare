@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace Task_Manager.TaskManager.Core
 {
-    public interface ITaskRepository
+    public interface ITaskRepository : ITaskReader, ITaskWriter
     {
         IEnumerable<TaskItem> GetAll();
         TaskItem GetById(int id);
-        void Add(TaskItem task);
-        void Update(TaskItem task);
-        void Delete(TaskItem task);
         
     }
 }
