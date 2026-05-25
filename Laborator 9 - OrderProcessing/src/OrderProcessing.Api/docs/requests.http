@@ -1,0 +1,165 @@
+@base = http://localhost:5000
+
+GET {{base}}/orders
+
+
+POST {{base}}/orders
+Content-Type: application/json
+
+{
+  "customerName": "Ion Popescu",
+  "customerEmail": "ion@example.com",
+  "customerAge": 25,
+  "isTrusted": false,
+  "street": "Str. Exemplu 1",
+  "city": "București",
+  "postalCode": "010101",
+  "country": "Romania",
+  "items": [
+    {
+      "productId": "00000000-0000-0000-0000-000000000001",
+      "productName": "Produs A",
+      "quantity": 2,
+      "unitPrice": 49.99,
+      "hasAgeRestriction": false
+    }
+  ]
+}
+
+
+POST {{base}}/orders
+Content-Type: application/json
+
+{
+  "customerName": "Ana Ionescu",
+  "customerEmail": "ana@example.com",
+  "customerAge": 20,
+  "isTrusted": false,
+  "street": "Bd. Unirii 5",
+  "city": "Cluj-Napoca",
+  "postalCode": "400001",
+  "items": [
+    {
+      "productId": "00000000-0000-0000-0000-000000000003",
+      "productName": "Produs C",
+      "quantity": 1,
+      "unitPrice": 19.99,
+      "hasAgeRestriction": false
+    }
+  ]
+}
+
+
+POST {{base}}/orders
+Content-Type: application/json
+
+{
+  "customerName": "Radu Popa",
+  "customerEmail": "radu@example.com",
+  "customerAge": 30,
+  "isTrusted": true,
+  "street": "Str. Libertății 3",
+  "city": "Timișoara",
+  "postalCode": "300001",
+  "items": [
+    {
+      "productId": "00000000-0000-0000-0000-000000000001",
+      "productName": "Produs A",
+      "quantity": 1,
+      "unitPrice": -10.00,
+      "hasAgeRestriction": false
+    }
+  ]
+}
+
+POST {{base}}/orders
+Content-Type: application/json
+
+{
+  "customerName": "Suspect Corp",
+  "customerEmail": "suspect@evil.com",
+  "customerAge": 35,
+  "isTrusted": false,
+  "street": "Str. Fraudei 13",
+  "city": "Iași",
+  "postalCode": "700001",
+  "items": [
+    {
+      "productId": "00000000-0000-0000-0000-000000000004",
+      "productName": "Produs D",
+      "quantity": 40,
+      "unitPrice": 299.00,
+      "hasAgeRestriction": false
+    }
+  ]
+}
+
+
+POST {{base}}/orders
+Content-Type: application/json
+
+{
+  "customerName": "Mihai Minor",
+  "customerEmail": "mihai@example.com",
+  "customerAge": 16,
+  "isTrusted": false,
+  "street": "Str. Tineretului 7",
+  "city": "Brașov",
+  "postalCode": "500001",
+  "items": [
+    {
+      "productId": "00000000-0000-0000-0000-000000000005",
+      "productName": "Produs E 18+",
+      "quantity": 1,
+      "unitPrice": 89.00,
+      "hasAgeRestriction": true
+    }
+  ]
+}
+
+
+@orderId = INLOCUITI-CU-ID-REAL
+
+GET {{base}}/orders/{{orderId}}
+
+
+POST {{base}}/orders/{{orderId}}/pay
+
+
+POST {{base}}/orders/{{orderId}}/process
+
+
+POST {{base}}/orders/{{orderId}}/ship
+
+
+POST {{base}}/orders/{{orderId}}/deliver
+
+
+POST {{base}}/orders/{{orderId}}/cancel
+
+
+POST {{base}}/orders
+Content-Type: application/json
+
+{
+  "customerName": "Maria Popa",
+  "customerEmail": "maria@example.com",
+  "customerAge": 28,
+  "isTrusted": true,
+  "street": "Calea Victoriei 10",
+  "city": "București",
+  "postalCode": "010063",
+  "items": [
+    {
+      "productId": "00000000-0000-0000-0000-000000000002",
+      "productName": "Produs B",
+      "quantity": 1,
+      "unitPrice": 129.50,
+      "hasAgeRestriction": false
+    }
+  ]
+}
+
+
+GET {{base}}/orders/00000000-0000-0000-0000-000000000000
+
