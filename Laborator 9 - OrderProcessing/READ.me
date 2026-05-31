@@ -1,0 +1,51 @@
+<div align="center">
+  <h1>📦 Order Processing System</h1>
+  <p><b>An End-to-End .NET 8 Minimal API & Vanilla JS SPA</b></p>
+  
+  [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#)
+  [![C#](https://img.shields.io/badge/C%23-12-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+  [![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+</div>
+
+---
+
+## 📖 Overview
+
+This project is a complete Order Processing system built to demonstrate the practical application of **Behavioral Design Patterns**. It features a robust backend built with C# 12 and .NET 8 Minimal APIs, paired with a lightweight, framework-less Single Page Application (SPA) frontend. 
+
+The core architectural focus is on decoupling request validation and managing complex entity lifecycles using the **Chain of Responsibility** and **State** design patterns.
+
+## 🛠️ Tech Stack
+
+* **Backend:** C# 12, ASP.NET Core 8 Minimal API, In-Memory Repository.
+* **Frontend:** Vanilla JavaScript (ES6+), HTML5, CSS3 (No React/Vue/Angular).
+* **Communication:** RESTful API using `fetch` and async/await.
+
+---
+
+## 🧠 Core Patterns & Architecture
+
+### 1. The Validation Pipeline (Chain of Responsibility)
+When a new order is submitted, it doesn't just hit a massive `if/else` block. Instead, it passes through a validation pipeline where the first handler to detect an issue short-circuits the process. 
+
+* `StockValidationHandler`: Checks if all items are in stock.
+* `PriceValidationHandler`: Ensures prices are positive and totals match.
+* `FraudDetectionHandler`: Flags suspiciously large orders from untrusted users.
+* `AgeVerificationHandler`: Validates age restrictions on specific items.
+
+### 2. Order Lifecycle (State Pattern)
+The `Order` entity delegates all its state-dependent behavior to concrete State objects (`IOrderState`). This completely eliminates `switch` statements based on an enum. Invalid transitions immediately throw an `InvalidOrderTransitionException` which the API gracefully maps to a `409 Conflict`.
+
+#### 🔄 Order Lifecycle State Diagram
+```mermaid
+stateDiagram-v2
+    [*] --> Pending
+    Pending --> Confirmed: Pay()
+    Pending --> Cancelled: Cancel()
+    Confirmed --> Processing: Process()
+    Confirmed --> Cancelled: Cancel()
+    Processing --> Shipped: Ship()
+    Processing --> Cancelled: Cancel()
+    Shipped --> Delivered: Deliver()
+    Delivered --> [*]
+    Cancelled --> [*]
